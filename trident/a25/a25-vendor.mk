@@ -1,0 +1,3 @@
+PRODUCT_SOONG_NAMESPACES += \n    vendor/trident/a25
+
+PRODUCT_COPY_FILES += \

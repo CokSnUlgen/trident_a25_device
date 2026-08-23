@@ -1,0 +1,5 @@
+type dmabuf_system_heap_device, dev_type;
+
+type aac_drc_prop, property_type;
+
+type vendor_modprobe, domain;
